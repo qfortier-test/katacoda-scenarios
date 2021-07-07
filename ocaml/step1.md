@@ -1,0 +1,3 @@
+# Variable definition
+
+a
